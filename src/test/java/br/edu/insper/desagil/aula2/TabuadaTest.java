@@ -9,7 +9,7 @@ class TabuadaTest {
 	private Tabuada t;
 
 	@BeforeEach
-	void setUp() {
+	private void setUp() {
 		t = new Tabuada();
 	}
 
