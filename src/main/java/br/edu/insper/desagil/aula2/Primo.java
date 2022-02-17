@@ -5,4 +5,5 @@ public class Primo {
 	public int conta(int limite) {
 		return 0;
 	}
+
 }
