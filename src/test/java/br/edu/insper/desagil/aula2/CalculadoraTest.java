@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 class CalculadoraTest {
-	private static double DELTA = 0.000001;
+	private static final double DELTA = 0.000001;
 
 	private Calculadora c;
 
